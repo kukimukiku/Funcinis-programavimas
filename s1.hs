@@ -1,4 +1,4 @@
--- Elena Ingrida Baublyte 2014848, 4 informatikos kursas, 2 grupe
+-- @author kukimukiku
 -- Functional programming exercise set1
 
 module Main where 
